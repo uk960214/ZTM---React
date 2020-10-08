@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ZTM-React/static/css/main.bc014031.chunk.css",
+    "main.js": "/ZTM-React/static/js/main.a183086a.chunk.js",
+    "main.js.map": "/ZTM-React/static/js/main.a183086a.chunk.js.map",
+    "runtime-main.js": "/ZTM-React/static/js/runtime-main.4f7f6c93.js",
+    "runtime-main.js.map": "/ZTM-React/static/js/runtime-main.4f7f6c93.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ZTM-React/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5d46d9da.chunk.js": "/ZTM-React/static/js/2.5d46d9da.chunk.js",
+    "static/js/2.5d46d9da.chunk.js.map": "/ZTM-React/static/js/2.5d46d9da.chunk.js.map",
+    "index.html": "/ZTM-React/index.html",
+    "precache-manifest.ab0fdcf78dc2244dc2db5afdfdae1459.js": "/ZTM-React/precache-manifest.ab0fdcf78dc2244dc2db5afdfdae1459.js",
+    "service-worker.js": "/ZTM-React/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ZTM-React/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.bc014031.chunk.css.map": "/ZTM-React/static/css/main.bc014031.chunk.css.map",
+    "static/media/App.css": "/ZTM-React/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f7f6c93.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5d46d9da.chunk.js",
+    "static/css/main.bc014031.chunk.css",
+    "static/js/main.a183086a.chunk.js"
+  ]
+}
